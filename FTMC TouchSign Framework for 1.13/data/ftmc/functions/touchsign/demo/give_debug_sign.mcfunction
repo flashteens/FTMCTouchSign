@@ -1,0 +1,3 @@
+# A demonstration for how to use the TouchSign datapack
+
+give @p minecraft:sign{BlockEntityTag:{Text1:"{\"text\":\"FTMC TouchSign Demo 1\",\"underlined\":true,\"color\":\"dark_purple\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function ftmc:touchsign/demo/debug\"}}",Text2:"{\"text\":\"FTMC TouchSign Demo 2\",\"underlined\":true,\"color\":\"dark_purple\"}",Text3:"{\"text\":\"FTMC TouchSign Demo 3\",\"underlined\":true,\"color\":\"dark_purple\"}",Text4:"{\"text\":\"FTMC TouchSign Demo 4\",\"underlined\":true,\"color\":\"dark_purple\"}"},display:{Name:"\"FTMC TouchSign debug sign\""}}

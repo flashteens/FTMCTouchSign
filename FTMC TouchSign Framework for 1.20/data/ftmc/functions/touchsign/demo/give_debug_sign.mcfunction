@@ -1,0 +1,3 @@
+# A demonstration for how to use the TouchSign datapack
+
+give @p minecraft:birch_sign{BlockEntityTag:{front_text:{messages: ["{\"text\":\"FTMC TouchSign Demo 1\",\"underlined\":true,\"color\":\"dark_purple\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function ftmc:touchsign/demo/debug\"}}", "{\"text\":\"FTMC TouchSign Demo 2\",\"underlined\":true,\"color\":\"dark_purple\"}", "{\"text\":\"FTMC TouchSign Demo 3\",\"underlined\":true,\"color\":\"dark_purple\"}", "{\"text\":\"FTMC TouchSign Demo 4\",\"underlined\":true,\"color\":\"dark_purple\"}" ], color: "black"}},display:{Name:"\"FTMC TouchSign debug sign\""}}

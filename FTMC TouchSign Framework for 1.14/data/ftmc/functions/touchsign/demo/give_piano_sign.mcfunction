@@ -1,0 +1,3 @@
+# A demonstration for how to use the TouchSign datapack
+
+give @p minecraft:birch_sign{BlockEntityTag:{Text1:"{\"text\":\"\",\"color\":\"dark_blue\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"function ftmc:touchsign/demo/piano\"}}",Text2:"[\"\",{\"text\":\"▋▋\",\"color\":\"black\"},{\"text\":\"°°°\",\"color\":\"gold\"},{\"text\":\"▋▋▋\",\"color\":\"black\"},{\"text\":\"°°°\",\"color\":\"gold\"},{\"text\":\"▋▋\",\"color\":\"black\"},{\"text\":\"°°°\",\"color\":\"gold\"},{\"text\":\"▋▋▋\",\"color\":\"black\"},{\"text\":\"°°°\",\"color\":\"gold\"},{\"text\":\"\",\"color\":\"black\"}]",Text3:"{\"text\":\"▋▋▋▋▋▋▋▋▋▋▋▋▋▋▋\",\"color\":\"white\"}",Text4:"{\"text\":\"\"}"},display:{Name:"\"FTMC TouchSign piano sign (force unicode ON mode)\""}}
