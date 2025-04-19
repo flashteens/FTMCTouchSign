@@ -6,7 +6,7 @@ This is a datapack framework that lets you use a sign like a touchscreen. In oth
 ---
 
 ## Features
-* Works in Vanilla Minecraft 1.13 through 1.21.
+* Works in Vanilla Minecraft 1.13 through 1.21.5.
 * Gives your datapack the ability to tell **which part** of a wall sign that a player clicked on. (Check out the [usages](#how-to-use) below)
 * Able to correctly detect the clicking position even while the player is sneaking or gliding with an elytra.
 * Provides some demo examples that help you understand the usage.
@@ -20,7 +20,8 @@ This is a datapack framework that lets you use a sign like a touchscreen. In oth
 | 1.14 - 1.19.4 | `FTMC TouchSign Framework for 1.14` |
 | 1.20 - 1.20.4 | `FTMC TouchSign Framework for 1.20` |
 | 1.20.5 - 1.20.6 | `FTMC TouchSign Framework for 1.20.5` |
-| 1.21 | `FTMC TouchSign Framework for 1.21` |
+| 1.21 - 1.21.4 | `FTMC TouchSign Framework for 1.21` |
+| 1.21.5 | `FTMC TouchSign Framework for 1.21.5` |
 
 **Step2.** [Make your own datapack](https://minecraft.wiki/w/Tutorials/Creating_a_data_pack) and put it into the same datapack folder.
 
@@ -43,7 +44,7 @@ The example above will make your sign run `<YourAction1>` when clicking on the *
 
 **Step3.** Make a clickable sign and obtain the sign with a `/give` command. Some examples can be seen on the demo folders of this project.
 * Click on the links below for the example in each corresponding Minecraft version:
-  - [For 1.20.5 - 1.21](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.21/data/ftmc/function/touchsign/demo/give_debug_sign.mcfunction) | [For 1.20 - 1.20.4](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.20/data/ftmc/functions/touchsign/demo/give_debug_sign.mcfunction) | [For 1.14 - 1.19.4](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.14/data/ftmc/functions/touchsign/demo/give_debug_sign.mcfunction) | [For 1.13 - 1.13.2](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.13/data/ftmc/functions/touchsign/demo/give_debug_sign.mcfunction)
+  - [For 1.21.5](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.21.5/data/ftmc/function/touchsign/demo/give_debug_sign.mcfunction) | [For 1.20.5 - 1.21.4](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.21/data/ftmc/function/touchsign/demo/give_debug_sign.mcfunction) | [For 1.20 - 1.20.4](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.20/data/ftmc/functions/touchsign/demo/give_debug_sign.mcfunction) | [For 1.14 - 1.19.4](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.14/data/ftmc/functions/touchsign/demo/give_debug_sign.mcfunction) | [For 1.13 - 1.13.2](https://github.com/flashteens/FTMCTouchSign/blob/main/FTMC%20TouchSign%20Framework%20for%201.13/data/ftmc/functions/touchsign/demo/give_debug_sign.mcfunction)
 
 ## Future plans
 * Plan to support hanging signs
